@@ -1,0 +1,11 @@
+The beep beep sound is usually caused by a virus residing in the system. Although this is not always the case, but mostly 
+this happens when we download a file from an unknown source and the file contains a malware. Nowadays, it is very difficult
+to get these types of virus into the system as our systems and applications can sense virus and hence warn us regarding
+the same.
+For eg Google Chrome :-
+Whenever we click on a link which is not an authorised link, google chrome warns us by displaying a security check web page
+and warns us that proceeding further may cause problems in the system. Hence, most users prefer not to proceed and thus are
+saved from inhering a virus into their system.
+
+As the hint includes CH3COOH which is very dangerous acid, similarly we can say that these kind of cyber attacks are 
+extremely dangerous to our system and can damage our system files completely. 

@@ -1,0 +1,21 @@
+As the Hint includes the octopus loves texting, this indicates that the cyber attack has been done on a network of systems 
+which has been done simultaneously. This is pretty much similar to the 'botnet' attacking technique which means an entire 
+network of computers controlled and instructed to attack other systems and send spam or phishing emails etc.
+
+Now, to find out the vulnerability exploited, we can look in the temp folder, if there are many newly created files then 
+that means that your system might have been hacked.
+ 
+Mostly hackers use an alternate IP address using some paid softwares which provide them with IP addresses from around 
+the world. For eg you can be alloted an IP address of USA even if you are working in INDIA with the help of paid softwares.
+So, to find the attacker we can pay the software company and work out a deal to get the original IP addresses from which our
+databases were attacked and then we can easily find the hacker.
+
+Sometimes hackers do simple mistakes by using their personal details like email-id during the cyber attack. This can lead
+to the hacker very easily.
+
+The code used by the attacker may include some comments which can tell us about their language. We can analyse the code
+to gather more information like the time at which the code was compiled. So, it can be used to determine the attackers 
+location.
+
+
+
